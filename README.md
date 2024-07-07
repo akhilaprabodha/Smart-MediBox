@@ -1,9 +1,6 @@
-# Smart-MediBox
-![image](https://github.com/akhilaprabodha/Smart-MediBox/assets/107745538/677a3076-9149-44cb-8b4a-d6f568d02890)
-
-![image](https://github.com/akhilaprabodha/Smart-MediBox/assets/107745538/5d9c97ac-233b-4463-9939-8ad4a4a5bc09)
-
 # 📦 Smart Medibox
+
+![image](https://github.com/akhilaprabodha/Smart-MediBox/assets/107745538/677a3076-9149-44cb-8b4a-d6f568d02890)
 
 The Smart Medibox is an intelligent device crafted to support individuals in managing their medication regimen effectively. It combines automated reminders with environmental monitoring to ensure medications are stored under optimal conditions.
 
@@ -68,6 +65,7 @@ Upload the code to the ESP32 Devkit V1 using PlatformIO.
 4. 🌐 **Node-RED Dashboard:**
     - Import ```flows.json``` to Node-RED.
     - Configure MQTT server parameters and deploy.
+![image](https://github.com/akhilaprabodha/Smart-MediBox/assets/107745538/5d9c97ac-233b-4463-9939-8ad4a4a5bc09)
 
 ### 🧩 Software Architecture
 The software is organized into modular components for efficient management:
