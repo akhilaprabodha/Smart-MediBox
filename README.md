@@ -64,7 +64,7 @@ Upload the code to the ESP32 Devkit V1 using PlatformIO.
 
 4. 🌐 **Node-RED Dashboard:**
     - Import ```flows.json``` to Node-RED.
-    - Configure MQTT server parameters and deploy.
+    - Configure MQTT server parameters and deploy.  
 ![image](https://github.com/akhilaprabodha/Smart-MediBox/assets/107745538/5d9c97ac-233b-4463-9939-8ad4a4a5bc09)
 
 ### 🧩 Software Architecture
