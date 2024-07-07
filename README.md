@@ -79,6 +79,13 @@ The software is organized into modular components for efficient management:
 - **User Interface:** Provides a menu-driven interface on the OLED display.
 - **Communication Management:** Manages MQTT communication for remote data transmission and control.
 
+### 🏷️ About
+This project originated as a Semester 4 assignment for the ```EN2853 - Embedded Systems & Applications``` module.
+
+### 🎥 Demo video
+
+https://github.com/akhilaprabodha/Smart-MediBox/assets/107745538/1e2546bb-28a5-45c8-9a3a-033fa648be5f
+
 ### 🤝 Contributing
 We welcome contributions to enhance the Smart Medibox:
 - **Bug Reports:** Submit issues if you encounter any bugs.
